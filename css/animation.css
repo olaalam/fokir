@@ -1,0 +1,150 @@
+@keyframes animate { 
+  
+  0% { 
+      content: "|"; 
+  } 
+  2% { 
+      content: "D|"; 
+  }
+  4% { 
+    content: "De|"; 
+} 
+6% { 
+  content: "Des|"; 
+} 
+8% { 
+content: "Desi|"; 
+} 
+10% { 
+content: "Desig|"; 
+}  
+12% { 
+content: "Design|"; 
+}  
+14% { 
+content: "Designe|"; 
+} 
+16% { 
+content: "Designer|"; 
+} 
+18% { 
+content: "Designe|"; 
+} 
+20% { 
+content: "Design|"; 
+} 
+22% { 
+content: "Desig|"; 
+} 
+24% { 
+content: "Desi|"; 
+} 
+26% { 
+content: "Des|"; 
+} 
+28% { 
+content: "De|"; 
+} 
+30% { 
+content: "D|"; 
+} 
+32% { 
+content: "|"; 
+} 
+34% { 
+content: "D|"; 
+} 
+36% { 
+content: "De|"; 
+} 
+38% { 
+content: "Dev|"; 
+} 
+40% { 
+content: "Deve|"; 
+} 
+42% { 
+content: "Devel|"; 
+} 
+44% { 
+content: "Develo|"; 
+} 
+46% { 
+content: "Develop|"; 
+} 
+48% { 
+content: "Develope|"; 
+} 
+50% { 
+content: "Developer|"; 
+} 
+52% { 
+content: "Develope|"; 
+} 
+54% { 
+content: "Develop|"; 
+} 
+56% { 
+content: "Develo|"; 
+} 
+58% { 
+content: "Devel|"; 
+} 
+60% { 
+content: "Deve|"; 
+} 
+62% { 
+content: "Dev|"; 
+} 
+64% { 
+content: "De|"; 
+} 
+66% { 
+content: "D|"; 
+} 
+68% { 
+content: "De|"; 
+} 
+70% { 
+content: "Des|"; 
+} 
+72% { 
+content: "Desi|"; 
+} 
+74% { 
+content: "Desig|"; 
+}  
+76% { 
+content: "Design|"; 
+}  
+78% { 
+content: "Designe|"; 
+} 
+80% { 
+content: "Designer|"; 
+} 
+82% { 
+content: "Designe|"; 
+} 
+84% { 
+content: "Design|"; 
+} 
+86% { 
+content: "Desig|"; 
+} 
+88% { 
+content: "Desi|"; 
+} 
+90% { 
+content: "Des|"; 
+} 
+92% { 
+content: "De|"; 
+} 
+94% { 
+content: "D|"; 
+} 
+96% { 
+content: "|"; 
+}
+}
